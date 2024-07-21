@@ -10,9 +10,4 @@ This project is a Content Management System (CMS) designed to facilitate the cre
 - Support for multiple content types
 - Efficient content storage and retrieval
 
-## Prerequisites
 
-Before you can run this CMS project, you need to have the following installed:
-
-- C++ Compiler (GCC recommended)
-- Make (for building the project)
