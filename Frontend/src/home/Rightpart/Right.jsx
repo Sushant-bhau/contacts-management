@@ -12,7 +12,7 @@ function Right() {
     return setSelectedConversation(null);
   }, [setSelectedConversation]);
   return (
-    <div className="w-full bg-gray-700 text-gray-300">
+    <div className="w-full bg-[#252F34] text-gray-300">
       <div>
         {!selectedConversation ? (
           <NoChatSelected />
