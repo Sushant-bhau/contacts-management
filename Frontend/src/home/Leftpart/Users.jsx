@@ -6,7 +6,7 @@ function Users() {
   const [allUsers, loading] = useGetAllUsers();
   console.log(allUsers);
   return (
-    <div className="py-3">
+    <div className="py-5">
       <h1 className="px-8 py-2 text-white font-bold bg-slate-800 rounded-md">
         Chats
       </h1>
