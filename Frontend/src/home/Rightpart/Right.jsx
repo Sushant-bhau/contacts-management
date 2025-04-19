@@ -40,7 +40,7 @@ const NoChatSelected = () => {
   console.log(authUser);
   return (
     <>
-      <div className="relative bg-gray-800">
+      <div className="relative bg-[#252F34]">
         <label
           htmlFor="my-drawer-2"
           className="btn btn-ghost drawer-button lg:hidden absolute left-5"
